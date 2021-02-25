@@ -1,0 +1,1 @@
+consolog('Thuong nè');
