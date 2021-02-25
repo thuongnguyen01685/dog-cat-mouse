@@ -1,5 +1,6 @@
 function Cat(){
-	name: 'Tom',
-	weight:55
+	this.name: 'Tom',
+	this.weight:55,
+	this.stomach = []
 }
 module.exports = Cat;
