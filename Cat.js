@@ -1,6 +1,5 @@
  var Mouse = require('./Mouse');
 function Cat(name){
-	
 	this.stomach = [];
 }
 Cat.prototype.eat = function(animal){
