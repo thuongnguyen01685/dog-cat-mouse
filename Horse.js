@@ -6,6 +6,5 @@ function Horse(){
     Horse.prototype.fly = function(){
     	console.log('Flying...');
     };
-
 }
 module.exports = Horse;
